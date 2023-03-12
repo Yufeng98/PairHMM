@@ -3,5 +3,7 @@
 *.log
 *.swp
 *.o
+*.in
+*.out
 pairhmm
 other/
